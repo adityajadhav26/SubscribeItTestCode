@@ -17,4 +17,9 @@
     <string name="logout">Sign Out</string>
     <string name="google_sign_up_button_label">Sign up with Google</string>
     <string name="googleauthid">94494416829-pog1l3i83euekjirf4uoggri288frj9g.apps.googleusercontent.com</string>
+    <string name="facebook_sign_up_button_label">Sign up with facebook</string>
+    <string name="facebook_app_id">1644049442376780</string>
+    <string name="fb_login_protocol_scheme">fb1644049442376780</string>
+    <string name="deleteaccount">Del Acc</string>
+    <string name="sign_up_using_phone">Log In With Phone</string>
 </resources>

@@ -43,5 +43,19 @@
         android:layout_alignLeft="@+id/signupButton"
         android:layout_below="@+id/signupButton"
         android:text="@string/google_sign_up_button_label" />
+    <Button
+        android:id="@+id/phonesignupButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/googlesignupButton"
+        android:layout_below="@+id/googlesignupButton"
+        android:text="@string/sign_up_using_phone" />
+
+    <com.facebook.login.widget.LoginButton
+        android:id="@+id/facebook_sign_up_button_label"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/phonesignupButton"
+        android:layout_below="@+id/phonesignupButton" />
 
 </RelativeLayout>
